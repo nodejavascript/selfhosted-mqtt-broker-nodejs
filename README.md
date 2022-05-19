@@ -1,4 +1,7 @@
 <div id="top"></div>
+
+Forked from [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -38,7 +41,7 @@
   <p align="center">
     Simple MQTT broker written in nodejs, local persistence, minimal stdout with docker.
     <br />
-    <a href="https://github.com/nodejavascript/selfhosted-mqtt-broker-nodejs"><strong>Explore the docs »</strong></a>
+    <a href="https://nodejavascript.com/docs-coming-soon"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://nodejavascript.com/demo-coming-soon">View Demo</a>
@@ -91,10 +94,13 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Use this to spin up a dockerized MQTT broker. I use it to connect various [Tasmota](https://tasmota.github.io/install/) devices and [kpetrem/mqtt-exporter](https://hub.docker.com/r/kpetrem/mqtt-exporter)
+Use this to spin up a dockerized MQTT broker. I use it to connect various [Tasmota](https://tasmota.github.io/install/) devices and collect metrics with [https://hub.docker.com/r/kpetrem/mqtt-exporter](https://hub.docker.com/r/kpetrem/mqtt-exporter). This project was authored May 5, 2021, 7:35 PM privately on [GitLab](https://gitlab.com/) for about a year until it went public.
 
+### Prerequisites
+Learn about [MQTT](https://mqtt.org/)  and installing a client which are [readily available](https://play.google.com/store/search?q=mqtt) on desktops and play stores. Anything that publishes to MQTT can use this as a broker.
 
-1. See [package.json](https://github.com/nodejavascript/selfhosted-mqtt-broker-nodejs/blob/main/package.json) for dependencies.
+### Installation
+1. Review [./package.json](https://github.com/nodejavascript/selfhosted-mqtt-broker-nodejs/blob/main/package.json) for dependencies.
 2. Clone the repo
    ```sh
    git clone https://github.com/nodejavascript/selfhosted-mqtt-broker-nodejs.git
@@ -141,21 +147,20 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/nodejavascript/selfhosted-mqtt-broker-nodejs/blob/main/LICENSE) for more information.
 
 <!-- CONTACT -->
 ## Contact
-
-* LinkedIn - [@nodejavascript](https://linkedin.com/in/nodejavascript)
-* Homepage - [nodejavascript](https://nodejavascript.com)
-* Youtube - [nodejavascript](https://www.youtube.com/channel/UCZFJHjd0c79xyj2SpB8UbJg)
+* Home - [nodejavascript.com](https://nodejavascript.com)
+* YouTube - [nodejavascript](https://www.youtube.com/channel/UCZFJHjd0c79xyj2SpB8UbJg)
 * Twitter - [@nodejavascript](https://twitter.com/nodejavascript)
+* LinkedIn - [@nodejavascript](https://linkedin.com/in/nodejavascript)
 * Email - [github@nodejavascript.com](mailto:github@nodejavascript.com)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Forked my README.md from [github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - thank you!
+* Forked my README.md from [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - thank you!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
