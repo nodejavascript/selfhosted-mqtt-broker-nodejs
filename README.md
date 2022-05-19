@@ -162,8 +162,6 @@ Distributed under the MIT License. See [LICENSE](https://github.com/nodejavascri
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Forked my README.md from [https://github.com/othneildrew/Best-README-Template](github.com/othneildrew/Best-README-Template) - thank you!
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
