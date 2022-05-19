@@ -32,8 +32,10 @@ Forked from [https://github.com/othneildrew/Best-README-Template](https://github
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/nodejavascript/selfhosted-mqtt-broker-nodejs">
+  <a href="https://nodejavascript.com?ref=githubLogo">
     <img src="https://avatars.githubusercontent.com/u/105805523?v=4" alt="Logo" width="80" height="80">
+    <br />
+    nodejavascript.com
   </a>
 
 <h3 align="center">selfhosted-mqtt-broker-nodejs</h3>
@@ -94,10 +96,10 @@ Forked from [https://github.com/othneildrew/Best-README-Template](https://github
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Use this to spin up a dockerized MQTT broker. I use it to connect various [Tasmota](https://tasmota.github.io/install/) devices and collect metrics with [https://hub.docker.com/r/kpetrem/mqtt-exporter](https://hub.docker.com/r/kpetrem/mqtt-exporter). This project was authored May 5, 2021, 7:35 PM privately on [GitLab](https://gitlab.com/) for about a year until it went public.
+Use this to spin up a dockerized MQTT broker. I use it to connect various [Tasmota](https://tasmota.github.io/install/) devices and collect metrics with [hub.docker.com/r/kpetrem/mqtt-exporter](https://hub.docker.com/r/kpetrem/mqtt-exporter). This project was authored May 5, 2021, 7:35 PM privately on [GitLab](https://gitlab.com/) for about a year until I made it opensource.
 
 ### Prerequisites
-Learn about [MQTT](https://mqtt.org/)  and installing a client which are [readily available](https://play.google.com/store/search?q=mqtt) on desktops and play stores. Anything that publishes to MQTT can use this as a broker.
+Learn about [MQTT](https://mqtt.org/) and installing a client which are [readily available](https://play.google.com/store/search?q=mqtt) on desktops and play stores. Anything that publishes to MQTT can use this as a broker.
 
 ### Installation
 1. Review [./package.json](https://github.com/nodejavascript/selfhosted-mqtt-broker-nodejs/blob/main/package.json) for dependencies.
@@ -151,7 +153,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/nodejavascri
 
 <!-- CONTACT -->
 ## Contact
-* Home - [nodejavascript.com](https://nodejavascript.com)
+* Home - [nodejavascript.com](https://nodejavascript.co?ref=githubContact)
 * YouTube - [nodejavascript](https://www.youtube.com/channel/UCZFJHjd0c79xyj2SpB8UbJg)
 * Twitter - [@nodejavascript](https://twitter.com/nodejavascript)
 * LinkedIn - [@nodejavascript](https://linkedin.com/in/nodejavascript)
@@ -160,7 +162,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/nodejavascri
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Forked my README.md from [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - thank you!
+* Forked my README.md from [https://github.com/othneildrew/Best-README-Template](github.com/othneildrew/Best-README-Template) - thank you!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
