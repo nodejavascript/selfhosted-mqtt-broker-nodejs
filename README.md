@@ -117,7 +117,7 @@ Learn about [MQTT](https://mqtt.org/) and installing a client which are [readily
     AEDES_PORT=1883
     AEDES_BROKER_NAME=my-broker-name
     AEDES_USERNAME=common-username
-    AEDES_PASSWORD=iot-common-password
+    AEDES_PASSWORD=common-password
    ```
 5. Create docker container
      ```sh
