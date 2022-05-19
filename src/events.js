@@ -18,7 +18,7 @@ export const handleEvent = (aedes, { event, args, client }) => {
 
   const display = {
     event: event.name,
-    count: count,
+    count,
     now: (new Date()).toISOString(),
     aedes: `${aedes.id}`
   }
