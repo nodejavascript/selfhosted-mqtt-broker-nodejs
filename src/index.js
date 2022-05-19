@@ -32,6 +32,11 @@ const events = [
 ]
 
 export const startBroker = async () => {
+  if (!AEDES_PORT) {
+    console.log('TIP run this: cp .env.example .env && npm start')
+    return process.exit(2)
+  }
+
   const aedes = await returnAedes()
   const server = net.createServer(aedes.handle)
 
