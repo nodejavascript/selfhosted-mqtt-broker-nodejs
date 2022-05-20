@@ -84,12 +84,12 @@ Forked from [https://github.com/othneildrew/Best-README-Template](https://github
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Run this project on docker with a single command, `npm run docker` and you're ready to connect and use this slim MQTT broker with minimal event logging.
 
-This is:
-  * server started
-  * client connects
-  * client
+Logging via terminal, or looks nice like this using [Dozzle](https://hub.docker.com/r/amir20/dozzle):
 ![stdout-screen-shot](https://res.cloudinary.com/nodejavascript-com/image/upload/v1653005426/public/Screenshot_from_2022-05-19_20-10-02_zvnu5j.png)
+
+Client app used for above logs:
 ![client-app-screen-shot](https://res.cloudinary.com/nodejavascript-com/image/upload/v1653006210/public/Screenshot_from_2022-05-19_20-23-10_xwo3sx.png)
 
 ### Built With
@@ -166,6 +166,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/nodejavascri
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+* [Dozzle](https://hub.docker.com/r/amir20/dozzle)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
