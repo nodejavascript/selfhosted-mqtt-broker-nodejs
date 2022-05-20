@@ -1,7 +1,5 @@
 <div id="top"></div>
 
-Forked from [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -166,7 +164,10 @@ Distributed under the MIT License. See [LICENSE](https://github.com/nodejavascri
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * [Dozzle](https://hub.docker.com/r/amir20/dozzle)
+* [Docker](https://www.docker.com/)
+* [Ubuntu](https://ubuntu.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
