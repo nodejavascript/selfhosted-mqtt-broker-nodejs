@@ -156,7 +156,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/nodejavascri
 
 <!-- CONTACT -->
 ## Contact
-* Home - [nodejavascript.com](https://nodejavascript.co?ref=githubContact)
+* Home - [nodejavascript.com](https://nodejavascript.com?ref=githubContact)
 * YouTube - [nodejavascript](https://www.youtube.com/channel/UCZFJHjd0c79xyj2SpB8UbJg)
 * Twitter - [@nodejavascript](https://twitter.com/nodejavascript)
 * LinkedIn - [@nodejavascript](https://linkedin.com/in/nodejavascript)
