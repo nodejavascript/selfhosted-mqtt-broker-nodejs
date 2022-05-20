@@ -85,7 +85,8 @@ Forked from [https://github.com/othneildrew/Best-README-Template](https://github
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![repo-screen-shot](https://nodejavascript.com/screenshot-coming-soon/)
+![repo-screen-shot](https://res.cloudinary.com/nodejavascript-com/image/upload/v1653005426/public/Screenshot_from_2022-05-19_20-10-02_zvnu5j.png)
+[[original]](https://res.cloudinary.com/nodejavascript-com/image/upload/v1653005426/public/Screenshot_from_2022-05-19_20-10-02_zvnu5j.png)
 
 ### Built With
 
@@ -109,15 +110,15 @@ Learn about [MQTT](https://mqtt.org/) and installing a client which are [readily
    ```
 3. Change directory, make an `.env` file
    ```sh
-   cd selfhosted-mqtt-broker-nodejs && touch .env
+     cd selfhosted-mqtt-broker-nodejs && touch .env
    ```
 4. Edit the `.env` file and enter credentials
    ```sh
-    NODE_ENV=local
-    AEDES_PORT=1883
-    AEDES_BROKER_NAME=my-broker-name
-    AEDES_USERNAME=common-username
-    AEDES_PASSWORD=common-password
+     AEDES_PORT=1883
+     AEDES_BROKER_NAME=my-broker-name
+     AEDES_BROKER_CONCURRENCY=50
+     AEDES_USERNAME=common-username
+     AEDES_PASSWORD=common-password
    ```
 5. Create docker container
      ```sh
