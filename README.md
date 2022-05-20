@@ -85,8 +85,12 @@ Forked from [https://github.com/othneildrew/Best-README-Template](https://github
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![repo-screen-shot](https://res.cloudinary.com/nodejavascript-com/image/upload/v1653005426/public/Screenshot_from_2022-05-19_20-10-02_zvnu5j.png)
-[[original]](https://res.cloudinary.com/nodejavascript-com/image/upload/v1653005426/public/Screenshot_from_2022-05-19_20-10-02_zvnu5j.png)
+This is:
+  * server started
+  * client connects
+  * client
+![stdout-screen-shot](https://res.cloudinary.com/nodejavascript-com/image/upload/v1653005426/public/Screenshot_from_2022-05-19_20-10-02_zvnu5j.png)
+![client-app-screen-shot](https://res.cloudinary.com/nodejavascript-com/image/upload/v1653006210/public/Screenshot_from_2022-05-19_20-23-10_xwo3sx.png)
 
 ### Built With
 
