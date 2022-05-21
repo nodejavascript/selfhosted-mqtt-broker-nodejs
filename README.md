@@ -44,7 +44,7 @@
     <a href="https://nodejavascript.com/docs-coming-soon"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://nodejavascript.com/demo-coming-soon">View Demo</a>
+    <a href="https://nodejavascript.com/selfhosted-mqtt-broker-nodejs/">DEMO</a>
     ·
     <a href="https://github.com/nodejavascript/selfhosted-mqtt-broker-nodejs/issues">Report Bug</a>
     ·
