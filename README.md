@@ -159,7 +159,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/nodejavascri
 * Home - [nodejavascript.com](https://nodejavascript.com?ref=githubContact)
 * YouTube - [nodejavascript](https://www.youtube.com/channel/UCZFJHjd0c79xyj2SpB8UbJg)
 * Twitter - [@nodejavascript](https://twitter.com/nodejavascript)
-* LinkedIn - [@nodejavascript](https://linkedin.com/in/nodejavascript)
+* LinkedIn - [@nodejavascript](https://linkedin.com/in/georgefielder)
 * Email - [github@nodejavascript.com](mailto:github@nodejavascript.com)
 
 <!-- ACKNOWLEDGMENTS -->
@@ -185,4 +185,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/nodejavascri
 [license-shield]: https://img.shields.io/github/license/nodejavascript/selfhosted-mqtt-broker-nodejs.svg?style=for-the-badge
 [license-url]: https://github.com/nodejavascript/selfhosted-mqtt-broker-nodejs/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/nodejavascript
+[linkedin-url]: https://linkedin.com/in/georgefielder
