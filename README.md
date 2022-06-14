@@ -18,18 +18,17 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+
+  [![Forks][forks-shield]][forks-url]
+  [![Stargazers][stars-shield]][stars-url]
+  [![Issues][issues-shield]][issues-url]
+  [![Contributors][contributors-shield]][contributors-url]
+  [![LinkedIn][linkedin-shield]][linkedin-url]
+
   <a href="https://nodejavascript.com?ref=githubLogo">
     <img src="https://avatars.githubusercontent.com/u/105805523?v=4" alt="Logo" width="80" height="80">
     <br />
@@ -174,15 +173,15 @@ Distributed under the MIT License. See [LICENSE](https://github.com/nodejavascri
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/nodejavascript/selfhosted-mqtt-broker-nodejs.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/nodejavascript/selfhosted-mqtt-broker-nodejs.svg?style=plastic
 [contributors-url]: https://github.com/nodejavascript/selfhosted-mqtt-broker-nodejs/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/nodejavascript/selfhosted-mqtt-broker-nodejs.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/nodejavascript/selfhosted-mqtt-broker-nodejs.svg?style=plastic
 [forks-url]: https://github.com/nodejavascript/selfhosted-mqtt-broker-nodejs/network/members
-[stars-shield]: https://img.shields.io/github/stars/nodejavascript/selfhosted-mqtt-broker-nodejs.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/nodejavascript/selfhosted-mqtt-broker-nodejs.svg?style=plastic
 [stars-url]: https://github.com/nodejavascript/selfhosted-mqtt-broker-nodejs/stargazers
-[issues-shield]: https://img.shields.io/github/issues/nodejavascript/selfhosted-mqtt-broker-nodejs.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/nodejavascript/selfhosted-mqtt-broker-nodejs.svg?style=plastic
 [issues-url]: https://github.com/nodejavascript/selfhosted-mqtt-broker-nodejs/issues
-[license-shield]: https://img.shields.io/github/license/nodejavascript/selfhosted-mqtt-broker-nodejs.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/nodejavascript/selfhosted-mqtt-broker-nodejs.svg?style=plastic
 [license-url]: https://github.com/nodejavascript/selfhosted-mqtt-broker-nodejs/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg??style=social&logo=appveyor
 [linkedin-url]: https://linkedin.com/in/georgefielder
