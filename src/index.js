@@ -48,7 +48,7 @@ export const startBroker = async () => {
   server.listen(AEDES_PORT, () => {
     clearStdout(process)
     console.log(`\n\n${AEDES_BROKER_NAME} is running on ip ${ipaddress}, port ${AEDES_PORT}\n`)
-    aedes.publish({ topic: '💖 Happy Birthday! ☃️', payload: `${aedes.id}, broker I am.` })
+    aedes.publish({ topic: '💖 Hello Walt! ☃️', payload: `${aedes.id}, broker I am.` })
   })
 
   aedes.authenticate = (client, username, password, callback) => {

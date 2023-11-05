@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon -r esm index.js",
     "test": "standard  --verbose",
-    "docker": "docker rm -f selfhosted-mqtt-broker-nodejs; docker build . -t selfhosted-mqtt-broker-nodejs; docker run --restart always -p 1883:1883 --network web -d --name selfhosted-mqtt-broker-nodejs selfhosted-mqtt-broker-nodejs"
+    "docker": "docker rm -f selfhosted-mqtt-broker-nodejs-walt; docker build . -t selfhosted-mqtt-broker-nodejs-walt; docker run --restart always -p 1883:1883 --network web -d --name selfhosted-mqtt-broker-nodejs-walt selfhosted-mqtt-broker-nodejs-walt"
   },
   "repository": {
     "type": "git",
