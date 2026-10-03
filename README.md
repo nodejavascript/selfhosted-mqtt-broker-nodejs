@@ -1,3 +1,12 @@
+# selfhosted-mqtt-broker-nodejs
+
+A broker you own is one you can debug. This is a small MQTT broker meant to be run yourself — local persistence, minimal standard output, and a container that stays out of the way — so the devices on your network never depend on somebody else's uptime.
+
+**What is here:** `index.js` and `src/` are the broker · `Dockerfile` builds the container · `.env.example` carries the configuration · `nodemon.json` is for development.
+
+The setup, the configuration and the logging behaviour are documented below.
+
+---
 <div id="top"></div>
 
 <!--
